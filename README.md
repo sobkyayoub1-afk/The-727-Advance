@@ -9,7 +9,7 @@ Mouse yoke support for easier control
 
 Compatible with X‑Plane 11 (and partially with X‑Plane 12)
 
-GPL 3.0 licensed – fully open source
+
 
 📥 Installation
 Go to the Releases section of this GitHub repo.
